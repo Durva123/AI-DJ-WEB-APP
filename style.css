@@ -1,0 +1,22 @@
+body{
+    background-size:cover;
+}
+
+.head{
+    font-size:40px;
+    font-family:Calligraphic;
+    color:#ffc400;
+    background:#ffffff;
+    width:400px;
+}
+
+.note{
+    padding-top:15px;
+    font-size:20px;
+    font-family:merriweather;
+    color:white;
+    background:#ffc400;
+    width:800px;
+    text-align:center;
+    padding-bottom:10px;
+}
